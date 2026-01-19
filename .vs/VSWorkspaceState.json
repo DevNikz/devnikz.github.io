@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\docs",
+    "\\public",
+    "\\public\\img",
     "\\src",
     "\\src\\components",
     "\\src\\css",
@@ -9,6 +10,6 @@
     "\\src\\router",
     "\\src\\views"
   ],
-  "SelectedNode": "\\src\\components\\Footer.vue",
+  "SelectedNode": "\\.env",
   "PreviewInSolutionExplorer": false
 }
