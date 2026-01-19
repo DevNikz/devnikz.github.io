@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\views"
   ],
-  "SelectedNode": "\\vue.config.js",
+  "SelectedNode": "\\src\\views\\About.vue",
   "PreviewInSolutionExplorer": false
 }
