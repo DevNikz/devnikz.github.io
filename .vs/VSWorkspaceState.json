@@ -1,9 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\docs",
     "\\src",
+    "\\src\\components",
+    "\\src\\css",
+    "\\src\\data",
+    "\\src\\router",
     "\\src\\views"
   ],
-  "SelectedNode": "\\src\\views\\About.vue",
+  "SelectedNode": "\\src\\components\\Footer.vue",
   "PreviewInSolutionExplorer": false
 }

@@ -1,4 +1,4 @@
-<template>
+`2<template>
   <div style="margin-bottom: 80px;">
     <h1>Welcome!</h1>
 
